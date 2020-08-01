@@ -36,7 +36,7 @@
     "lodash": "2.4.1",
     "meanio": "linnovate/meanio",
     "mongoose": "3.8.24",
-    "morgan": "1.5.0",
+    "morgan": "1.10.0",
     "ms": "0.6.2",
     "nodemailer": "1.2.2",
     "passport-facebook": "1.0.3",
